@@ -4,7 +4,7 @@
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README.md)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README-en.md)
 
-区块链相关工具。
+区块链相关工具。提交 PR 参考 [contributing](contributing.md)，提交 issue 点击 [此处](https://github.com/BlockchainOne/awesome-blockchain-tools/issues)。
 
 [中文](README.md) | [English](README-en.md)
 
