@@ -61,6 +61,11 @@
 
 * [Carbon](https://carbon.now.sh)，代码转化为图片工具
 
+## 捐赠
+
+* BTC: 1HRZ7og2KjqpP3v3jskgueNu64kJrFU8GD
+* ETH: 0x5c8DEB48dC08b5dC60A0290B718690a801509Dd1
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
